@@ -29,7 +29,7 @@ I'm a passionate **Android Developer** 📱 and **Web Developer** 🌐 who loves
 
 ### 📫 How to Reach Me
 - 💼 LinkedIn: www.linkedin.com/in/rohit-dahale
-- 📧 Email: [your.email@example.com](mailto:your.email@example.com)
+- 📧 Email:mailto:rohitdahale242@gmail.com
 - 🐙 GitHub: [@rohitdahale](https://github.com/rohitdahale)
 
 ### ⚡ Fun Fact
