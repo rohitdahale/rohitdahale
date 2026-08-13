@@ -1,9 +1,6 @@
 # 💫 About Me:
-
 Hi there! 👋 I'm **Rohit Dahale**
-
-I'm a passionate **Android Developer** 📱 and **Web Developer** 🌐 who loves creating smooth, user-friendly applications. With a strong focus on **Kotlin**, **Jetpack Compose**, and **XML** for Android, plus a knack for web development, I'm always ready to dive into new challenges and collaborate on exciting projects!
-
+I'm a passionate **Android & Web Developer** 📱🌐 focused on building smooth, user-friendly applications with **Kotlin, Jetpack Compose, XML, and modern web technologies**.
 ---
 
 # 💻 Tech Stack:
