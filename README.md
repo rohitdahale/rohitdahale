@@ -6,46 +6,7 @@ I'm a passionate **Android Developer** 📱 and **Web Developer** 🌐 who loves
 
 ---
 
-## 🔭 What I’m Working On
-
-- 📱 Building responsive Android apps with the latest **Jetpack libraries** and **Kotlin**
-- 🌐 Developing fast, interactive web applications with a focus on **performance** and **accessibility**
-- 🛠️ Exploring new tools and frameworks to enhance functionality and user experience
-
-## 🌱 Currently Learning
-
-- ⚙️ Advanced **Kotlin Coroutines** for concurrency in Android
-- 🎨 Deepening my knowledge of **Jetpack Compose** for sleek, declarative UI design
-- 🔗 Expanding my backend development skills for full-stack projects
-
-## 👯 Looking to Collaborate On
-
-- **Android projects** 🧩 with **MVVM architecture** and **Jetpack components**
-- **Web development projects** 💻 using **JavaScript frameworks** and modern **UI design**
-- Open-source projects that aim to make development faster and more accessible 🌍
-
-## 💬 Ask Me About
-
-- 📲 **Android Development** — Kotlin, Jetpack, XML
-- 🌐 **Web Development** — JavaScript, CSS, HTML
-- 🎨 Best practices for **UI/UX** in mobile and web applications
-- 💡 Tips for maintaining efficient and clean codebases
-
-## 📫 How to Reach Me
-
-- 💼 LinkedIn: [linkedin.com/in/rohit-dahale](https://www.linkedin.com/in/rohit-dahale)
-- 📧 Email: [rohitdahale242@gmail.com](mailto:rohitdahale242@gmail.com)
-- 🐙 GitHub: [@rohitdahale](https://github.com/rohitdahale)
-
-## ⚡ Fun Fact
-
-When I’m not coding, you’ll probably find me listening to tech podcasts 🎧, reading up on the latest in app development 📚, or hiking a scenic trail! 🌄
-
----
-
-# 💻 Tech Stack
-
-### Languages
+# 💻 Tech Stack:
 
 ![C++](https://img.shields.io/badge/C%2B%2B-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
@@ -54,30 +15,16 @@ When I’m not coding, you’ll probably find me listening to tech podcasts 🎧
 ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
-### Android
-
 ![Kotlin](https://img.shields.io/badge/Kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-%234285F4.svg?style=for-the-badge&logo=jetpackcompose&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-%233DDC84.svg?style=for-the-badge&logo=android&logoColor=white)
 ![XML](https://img.shields.io/badge/XML-%23E44D26.svg?style=for-the-badge&logo=xml&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android%20Studio-%233DDC84.svg?style=for-the-badge&logo=androidstudio&logoColor=white)
 
-### Web Development
-
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-
-### Backend & Database
-
-![Firebase](https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-%23000000.svg?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-
-### Tools & Cloud
+![Firebase](https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black)
 
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
@@ -89,7 +36,7 @@ When I’m not coding, you’ll probably find me listening to tech podcasts 🎧
 
 ---
 
-# 📊 GitHub Stats
+# 📊 GitHub Stats:
 
 ![](https://github-readme-stats.shion.dev/api?username=rohitdahale&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
 
@@ -103,9 +50,44 @@ When I’m not coding, you’ll probably find me listening to tech podcasts 🎧
 
 ---
 
-### 👀 Profile Views
-
 [![](https://komarev.com/ghpvc/?username=rohitdahale&icon=0&color=0)](https://visitcount.itsvg.in)
+
+---
+
+# 🔭 What I’m Working On
+
+- 📱 Building responsive Android apps with the latest **Jetpack libraries** and **Kotlin**
+- 🌐 Developing fast, interactive web applications with a focus on **performance and accessibility**
+- 🛠️ Exploring new tools and frameworks to enhance functionality and user experience
+
+# 🌱 Currently Learning
+
+- ⚙️ Advanced **Kotlin Coroutines** for concurrency in Android
+- 🎨 Deepening my knowledge of **Jetpack Compose** for sleek, declarative UI design
+- 🔗 Expanding my backend development skills for full-stack projects
+
+# 👯 Looking to Collaborate On
+
+- **Android projects** 🧩 with **MVVM architecture** and **Jetpack components**
+- **Web development projects** 💻 using **JavaScript frameworks** and modern UI design
+- Open-source projects that aim to make development faster and more accessible 🌍
+
+# 💬 Ask Me About
+
+- 📲 **Android Development** — Kotlin, Jetpack, XML
+- 🌐 **Web Development** — JavaScript, CSS, HTML
+- 🎨 Best practices for **UI/UX** in mobile and web applications
+- 💡 Tips for maintaining efficient and clean codebases
+
+# 📫 How to Reach Me
+
+- 💼 LinkedIn: [linkedin.com/in/rohit-dahale](https://www.linkedin.com/in/rohit-dahale)
+- 📧 Email: [rohitdahale242@gmail.com](mailto:rohitdahale242@gmail.com)
+- 🐙 GitHub: [@rohitdahale](https://github.com/rohitdahale)
+
+# ⚡ Fun Fact
+
+When I’m not coding, you’ll probably find me listening to tech podcasts 🎧, reading up on the latest in app development 📚, or hiking a scenic trail! 🌄
 
 ---
 
